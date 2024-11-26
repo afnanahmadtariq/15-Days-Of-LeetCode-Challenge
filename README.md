@@ -9,10 +9,12 @@ This repository contains solutions to the 15-day Leetcode challenge organized by
 | ------- |
 | [0125-valid-palindrome](https://github.com/afnanahmadtariq/15-Days-Of-LeetCode-Challenge/tree/master/0125-valid-palindrome) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/afnanahmadtariq/15-Days-Of-LeetCode-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0541-reverse-string-ii](https://github.com/afnanahmadtariq/15-Days-Of-LeetCode-Challenge/tree/master/0541-reverse-string-ii) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/afnanahmadtariq/15-Days-Of-LeetCode-Challenge/tree/master/0125-valid-palindrome) |
+| [0541-reverse-string-ii](https://github.com/afnanahmadtariq/15-Days-Of-LeetCode-Challenge/tree/master/0541-reverse-string-ii) |
 ## Array
 |  |
 | ------- |
