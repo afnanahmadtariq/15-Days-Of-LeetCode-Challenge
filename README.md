@@ -11,6 +11,7 @@ This repository contains solutions to the 15-day Leetcode challenge organized by
 | [0026-remove-duplicates-from-sorted-array](https://github.com/afnanahmadtariq/15-Days-Of-LeetCode-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0541-reverse-string-ii](https://github.com/afnanahmadtariq/15-Days-Of-LeetCode-Challenge/tree/master/0541-reverse-string-ii) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/afnanahmadtariq/15-Days-Of-LeetCode-Challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0015-3sum](https://github.com/afnanahmadtariq/15-Days-Of-LeetCode-Challenge/tree/master/0015-3sum) |
 ## String
 |  |
 | ------- |
@@ -22,6 +23,7 @@ This repository contains solutions to the 15-day Leetcode challenge organized by
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/afnanahmadtariq/15-Days-Of-LeetCode-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/afnanahmadtariq/15-Days-Of-LeetCode-Challenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0015-3sum](https://github.com/afnanahmadtariq/15-Days-Of-LeetCode-Challenge/tree/master/0015-3sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,4 +32,8 @@ This repository contains solutions to the 15-day Leetcode challenge organized by
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/afnanahmadtariq/15-Days-Of-LeetCode-Challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/afnanahmadtariq/15-Days-Of-LeetCode-Challenge/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
