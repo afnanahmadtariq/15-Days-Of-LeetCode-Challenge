@@ -10,11 +10,13 @@ This repository contains solutions to the 15-day Leetcode challenge organized by
 | [0125-valid-palindrome](https://github.com/afnanahmadtariq/15-Days-Of-LeetCode-Challenge/tree/master/0125-valid-palindrome) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/afnanahmadtariq/15-Days-Of-LeetCode-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0541-reverse-string-ii](https://github.com/afnanahmadtariq/15-Days-Of-LeetCode-Challenge/tree/master/0541-reverse-string-ii) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/afnanahmadtariq/15-Days-Of-LeetCode-Challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/afnanahmadtariq/15-Days-Of-LeetCode-Challenge/tree/master/0125-valid-palindrome) |
 | [0541-reverse-string-ii](https://github.com/afnanahmadtariq/15-Days-Of-LeetCode-Challenge/tree/master/0541-reverse-string-ii) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/afnanahmadtariq/15-Days-Of-LeetCode-Challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Array
 |  |
 | ------- |
@@ -24,4 +26,8 @@ This repository contains solutions to the 15-day Leetcode challenge organized by
 |  |
 | ------- |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/afnanahmadtariq/15-Days-Of-LeetCode-Challenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/afnanahmadtariq/15-Days-Of-LeetCode-Challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
