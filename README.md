@@ -25,6 +25,7 @@ This repository contains solutions to the 15-day Leetcode challenge organized by
 | [0026-remove-duplicates-from-sorted-array](https://github.com/afnanahmadtariq/15-Days-Of-LeetCode-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/afnanahmadtariq/15-Days-Of-LeetCode-Challenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0015-3sum](https://github.com/afnanahmadtariq/15-Days-Of-LeetCode-Challenge/tree/master/0015-3sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/afnanahmadtariq/15-Days-Of-LeetCode-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,4 +42,8 @@ This repository contains solutions to the 15-day Leetcode challenge organized by
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/afnanahmadtariq/15-Days-Of-LeetCode-Challenge/tree/master/0014-longest-common-prefix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/afnanahmadtariq/15-Days-Of-LeetCode-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
