@@ -18,6 +18,7 @@ This repository contains solutions to the 15-day Leetcode challenge organized by
 | [0125-valid-palindrome](https://github.com/afnanahmadtariq/15-Days-Of-LeetCode-Challenge/tree/master/0125-valid-palindrome) |
 | [0541-reverse-string-ii](https://github.com/afnanahmadtariq/15-Days-Of-LeetCode-Challenge/tree/master/0541-reverse-string-ii) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/afnanahmadtariq/15-Days-Of-LeetCode-Challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0014-longest-common-prefix](https://github.com/afnanahmadtariq/15-Days-Of-LeetCode-Challenge/tree/master/0014-longest-common-prefix) |
 ## Array
 |  |
 | ------- |
@@ -36,4 +37,8 @@ This repository contains solutions to the 15-day Leetcode challenge organized by
 |  |
 | ------- |
 | [0015-3sum](https://github.com/afnanahmadtariq/15-Days-Of-LeetCode-Challenge/tree/master/0015-3sum) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/afnanahmadtariq/15-Days-Of-LeetCode-Challenge/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
