@@ -1,8 +1,9 @@
 class Solution:
     def moveZeroes(self, nums: List[int]) -> None:
-        count = 0
-        while 0 in nums:
-            count += 1
-            nums.remove(0)
-        for i in range(0, count):
-            nums.append(0)
+        index = 0
+        for num in nums:
+            if nums[index] == 0:
+                nums.pop(index)
+                nums.append(0)
+            else:
+                index += 1
