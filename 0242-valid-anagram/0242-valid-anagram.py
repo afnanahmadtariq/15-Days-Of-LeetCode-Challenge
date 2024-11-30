@@ -3,8 +3,8 @@ class Solution:
         if len(s) != len(t):
             return False
         else:
-            s = [i for i in s]
-            t = [i for i in t]
+            s = list(s)
+            t = list(t)
             s.sort()
             t.sort()
             for i, char in enumerate(s):
