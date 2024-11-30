@@ -12,6 +12,7 @@ This repository contains solutions to the 15-day Leetcode challenge organized by
 | [0541-reverse-string-ii](https://github.com/afnanahmadtariq/15-Days-Of-LeetCode-Challenge/tree/master/0541-reverse-string-ii) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/afnanahmadtariq/15-Days-Of-LeetCode-Challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0015-3sum](https://github.com/afnanahmadtariq/15-Days-Of-LeetCode-Challenge/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/afnanahmadtariq/15-Days-Of-LeetCode-Challenge/tree/master/0088-merge-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -27,6 +28,7 @@ This repository contains solutions to the 15-day Leetcode challenge organized by
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/afnanahmadtariq/15-Days-Of-LeetCode-Challenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0015-3sum](https://github.com/afnanahmadtariq/15-Days-Of-LeetCode-Challenge/tree/master/0015-3sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/afnanahmadtariq/15-Days-Of-LeetCode-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0088-merge-sorted-array](https://github.com/afnanahmadtariq/15-Days-Of-LeetCode-Challenge/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +43,7 @@ This repository contains solutions to the 15-day Leetcode challenge organized by
 | ------- |
 | [0015-3sum](https://github.com/afnanahmadtariq/15-Days-Of-LeetCode-Challenge/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/afnanahmadtariq/15-Days-Of-LeetCode-Challenge/tree/master/0242-valid-anagram) |
+| [0088-merge-sorted-array](https://github.com/afnanahmadtariq/15-Days-Of-LeetCode-Challenge/tree/master/0088-merge-sorted-array) |
 ## Trie
 |  |
 | ------- |
