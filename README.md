@@ -34,6 +34,7 @@ This repository contains solutions to the 15-day Leetcode challenge organized by
 | [0088-merge-sorted-array](https://github.com/afnanahmadtariq/15-Days-Of-LeetCode-Challenge/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/afnanahmadtariq/15-Days-Of-LeetCode-Challenge/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/afnanahmadtariq/15-Days-Of-LeetCode-Challenge/tree/master/0724-find-pivot-index) |
+| [0066-plus-one](https://github.com/afnanahmadtariq/15-Days-Of-LeetCode-Challenge/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,4 +67,8 @@ This repository contains solutions to the 15-day Leetcode challenge organized by
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/afnanahmadtariq/15-Days-Of-LeetCode-Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/afnanahmadtariq/15-Days-Of-LeetCode-Challenge/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
