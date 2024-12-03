@@ -36,6 +36,7 @@ This repository contains solutions to the 15-day Leetcode challenge organized by
 | [0283-move-zeroes](https://github.com/afnanahmadtariq/15-Days-Of-LeetCode-Challenge/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/afnanahmadtariq/15-Days-Of-LeetCode-Challenge/tree/master/0724-find-pivot-index) |
 | [0066-plus-one](https://github.com/afnanahmadtariq/15-Days-Of-LeetCode-Challenge/tree/master/0066-plus-one) |
+| [0169-majority-element](https://github.com/afnanahmadtariq/15-Days-Of-LeetCode-Challenge/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@ This repository contains solutions to the 15-day Leetcode challenge organized by
 | [0242-valid-anagram](https://github.com/afnanahmadtariq/15-Days-Of-LeetCode-Challenge/tree/master/0242-valid-anagram) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/afnanahmadtariq/15-Days-Of-LeetCode-Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/afnanahmadtariq/15-Days-Of-LeetCode-Challenge/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/afnanahmadtariq/15-Days-Of-LeetCode-Challenge/tree/master/0169-majority-element) |
 ## String Matching
 |  |
 | ------- |
@@ -53,6 +55,7 @@ This repository contains solutions to the 15-day Leetcode challenge organized by
 | [0015-3sum](https://github.com/afnanahmadtariq/15-Days-Of-LeetCode-Challenge/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/afnanahmadtariq/15-Days-Of-LeetCode-Challenge/tree/master/0242-valid-anagram) |
 | [0088-merge-sorted-array](https://github.com/afnanahmadtariq/15-Days-Of-LeetCode-Challenge/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/afnanahmadtariq/15-Days-Of-LeetCode-Challenge/tree/master/0169-majority-element) |
 ## Trie
 |  |
 | ------- |
@@ -74,4 +77,12 @@ This repository contains solutions to the 15-day Leetcode challenge organized by
 | ------- |
 | [0066-plus-one](https://github.com/afnanahmadtariq/15-Days-Of-LeetCode-Challenge/tree/master/0066-plus-one) |
 | [0013-roman-to-integer](https://github.com/afnanahmadtariq/15-Days-Of-LeetCode-Challenge/tree/master/0013-roman-to-integer) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/afnanahmadtariq/15-Days-Of-LeetCode-Challenge/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/afnanahmadtariq/15-Days-Of-LeetCode-Challenge/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
