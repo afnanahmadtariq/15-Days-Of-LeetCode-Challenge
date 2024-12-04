@@ -1,13 +1,10 @@
 class Solution:
     def findTheDifference(self, s: str, t: str) -> str:
         t = list(t)
-        t.sort()
         s = list(s)
-        s.sort()
-        print(t)
-        print(s)
-        for i, c in enumerate(t):
-            if i > len(s)-1:
-                return c
-            elif c != s[i]:
+        count = collections.Counter()
+        count.update(t)
+        count = count - Counter(s)
+        for c, i in count.items():
+            if i > 0:
                 return c
