@@ -44,6 +44,7 @@ This repository contains solutions to the 15-day Leetcode challenge organized by
 | [0169-majority-element](https://github.com/afnanahmadtariq/15-Days-Of-LeetCode-Challenge/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/afnanahmadtariq/15-Days-Of-LeetCode-Challenge/tree/master/0189-rotate-array) |
 | [0027-remove-element](https://github.com/afnanahmadtariq/15-Days-Of-LeetCode-Challenge/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/afnanahmadtariq/15-Days-Of-LeetCode-Challenge/tree/master/0053-maximum-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,6 +74,7 @@ This repository contains solutions to the 15-day Leetcode challenge organized by
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/afnanahmadtariq/15-Days-Of-LeetCode-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0053-maximum-subarray](https://github.com/afnanahmadtariq/15-Days-Of-LeetCode-Challenge/tree/master/0053-maximum-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -91,6 +93,7 @@ This repository contains solutions to the 15-day Leetcode challenge organized by
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/afnanahmadtariq/15-Days-Of-LeetCode-Challenge/tree/master/0169-majority-element) |
+| [0053-maximum-subarray](https://github.com/afnanahmadtariq/15-Days-Of-LeetCode-Challenge/tree/master/0053-maximum-subarray) |
 ## Counting
 |  |
 | ------- |
