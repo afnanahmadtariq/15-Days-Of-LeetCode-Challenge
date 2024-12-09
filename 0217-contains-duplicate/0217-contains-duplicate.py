@@ -1,9 +1,8 @@
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
-        nums.sort()
-        for i, num in enumerate(nums):
-            if i+1 >= len(nums):
-                break
-            if num == nums[i+1] :
+        count = collections.Counter()
+        for num in nums:
+            count[num] += 1
+            if count[num] > 1:
                 return True
         return False
